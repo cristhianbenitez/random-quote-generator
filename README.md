@@ -1,2 +1,2 @@
-# [random-quote-generator](http://marked-wire.surge.sh/)
+# [random-quote-generator](https://wizardly-borg-34a5f2.netlify.app/)
 
