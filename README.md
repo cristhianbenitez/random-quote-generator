@@ -1,2 +1,2 @@
-# [random-quote-generator](https://wizardly-borg-34a5f2.netlify.app/)
+# [random-quote-generator](https://xenodochial-torvalds-d70eac.netlify.app/)
 
